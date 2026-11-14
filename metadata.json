@@ -1,0 +1,8 @@
+{
+  "name": "ShopGenius AI",
+  "description": "Your Personal AI Shopping Assistant — Discover products, compare prices across stores, analyze customer reviews with AI, and shop smarter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
